@@ -1,0 +1,5 @@
+EId,EName,Password,DOB,Address,Phone,BloodGroup,Designation,OId
+1,Md Mridul Hossain,123456,10/21/1998 12:00:00 AM,Thanapara, Kushtia,01717510286,B+,Admin,
+3,Mr. Tom,123456,9/18/2020 12:00:00 AM,Dhaka,017XXXXXXX,O+,Employee,
+6,Omar Farhan Abid,123456,9/23/2020 12:00:00 AM,Kumarkhali, Kushtia,017XXXXXXXX,O+,Admin,
+7,Coffee Man,123456,9/15/2020 12:00:00 AM,Coffee Land, Disney,XXXXXXXXXXX,Ab-,Admin,

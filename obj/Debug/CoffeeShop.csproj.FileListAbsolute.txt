@@ -1,0 +1,32 @@
+E:\Programming Codes\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\Programming Codes\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\Programming Codes\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.EmployeeForm.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.pdb
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.Home.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.MenuForm.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.OrderForm.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.InventoryForm.resources
+E:\Programming Codes\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.EmployeesForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\Sheets and solutions\C#\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\Sheets and solutions\C#\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.EmployeeForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.EmployeesForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Form1.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.Home.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.InventoryForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.MenuForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Presentation_Layer.OrderForm.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\Sheets and solutions\C#\CoffeeShop\obj\Debug\CoffeeShop.pdb

@@ -1,0 +1,4 @@
+InventoryId,InventoryName,Amount,Month,Price
+9,Coffee Beans,10,9,800
+8,Liquid Milk,10,9,1250
+7,PowerMilk,8,9,800

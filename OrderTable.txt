@@ -1,0 +1,14 @@
+OId,EName,EId,Total,Month
+46,Md Mridul Hossain,1,45,9
+47,Md Mridul Hossain,1,40,9
+48,Md Mridul Hossain,1,250,9
+49,Md Mridul Hossain,1,315,9
+50,Rifat Uz Zaman,4,340,9
+51,Rifat Uz Zaman,4,330,9
+52,Rifat Uz Zaman,4,180,9
+53,Rifat Uz Zaman,4,230,9
+57,Md Mridul Hossain,1,195,9
+58,Sami,2,340,9
+59,Mr. Cat,3,290,9
+1064,Md Mridul Hossain,1,210,9
+1066,Md Mridul Hossain,1,405,9
